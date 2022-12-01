@@ -6,7 +6,7 @@
 
 * [協会会則リンク](杭の簡易載荷試験協会会則.pdf)
   * [会員名簿](members.md)
-* お問い合わせ: [office@simpleplt.org](office@simpleplt.org)
+* お問い合わせ: [office@simpleplt.org](mailto:office@simpleplt.org)
 
 ## 技術概要
 
@@ -24,7 +24,7 @@
 
 ## ご利用の案内
 
-本試験は，発明者である[13法人](members.md)の[特許](https://ipforce.jp/patent-jp-P_B1-7046126)となっています。商用利用される場合は，以下ご確認の上，協会事務局（[office@simpleplt.org](office@simpleplt.org)）にご相談下さい。
+本試験は，発明者である[13法人](members.md)の[特許](https://ipforce.jp/patent-jp-P_B1-7046126)となっています。商用利用される場合は，以下ご確認の上，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）にご相談下さい。
 
 ### 試験の委託・発注
 
@@ -32,7 +32,7 @@
 
 ### 試験を自ら実施する場合
 
-本試験を自ら商用で実施する場合，本協会へ入会して頂く必要があります。入会手続きの概要は以下の通りです。まず[会則](杭の簡易載荷試験協会会則.pdf)もご確認の上，入会希望の旨，協会事務局（[office@simpleplt.org](office@simpleplt.org)）までご連絡下さい。
+本試験を自ら商用で実施する場合，本協会へ入会して頂く必要があります。入会手続きの概要は以下の通りです。まず[会則](杭の簡易載荷試験協会会則.pdf)もご確認の上，入会希望の旨，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
 
 1. 協会事務局から会員の権利と入会・退会の手続き等に関する説明。
 2. 特許の実施許諾契約書（案）のお渡し。
@@ -40,4 +40,4 @@
 
 ### その他：講習会等
 
-試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](office@simpleplt.org)以外に，有償で講習会や試験の実地指導も行います。講習会や実地指導を受けるのに，協会に入会して頂く必要はありません。ご希望される方は，その旨，協会事務局（[office@simpleplt.org](office@simpleplt.org)）までご連絡下さい。
+試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](mailto:office@simpleplt.org)以外に，有償で講習会や試験の実地指導も行います。講習会や実地指導を受けるのに，協会に入会して頂く必要はありません。ご希望される方は，その旨，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
