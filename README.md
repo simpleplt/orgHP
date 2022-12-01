@@ -6,7 +6,7 @@
 
 * [協会会則リンク](杭の簡易載荷試験協会会則.pdf)
   * [会則の概要説明資料リンク](入会希望者説明事項_211112.pdf)
-  * [会員名簿](members.md)
+* [会員名簿](members.md)
 * お問い合わせ: [office@simpleplt.org](mailto:office@simpleplt.org)
 
 ## 技術概要
