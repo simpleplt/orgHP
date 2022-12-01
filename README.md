@@ -40,4 +40,4 @@
 
 ### その他：講習会等
 
-試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](mailto:office@simpleplt.org)以外に，有償で講習会や試験の実地指導も行います。講習会や実地指導を受けるのに，協会に入会して頂く必要はありません。ご希望される方は，その旨，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
+試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](mailto:office@simpleplt.org)以外に，講習会や試験の実地指導も有償にて行います。これについては，協会に入会して頂く必要はありません。ご希望される方は，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
