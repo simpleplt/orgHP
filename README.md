@@ -5,6 +5,7 @@
 本協会は，杭の簡易載荷試験のライセンス管理と普及推進を目的として活動しています。
 
 * [協会会則リンク](杭の簡易載荷試験協会会則.pdf)
+  * [会則の概要説明資料リンク](入会希望者説明事項_211112.pdf)
   * [会員名簿](members.md)
 * お問い合わせ: [office@simpleplt.org](mailto:office@simpleplt.org)
 
@@ -40,4 +41,4 @@
 
 ### その他：講習会等
 
-試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](mailto:office@simpleplt.org)以外に，講習会や試験の実地指導も有償にて行います。これについては，協会に入会して頂く必要はありません。ご希望される方は，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
+試験の委託や実施の前に，もう少し詳しい説明が聞きたいという場合には，[メールでの対応](mailto:office@simpleplt.org)以外に，講習会や試験の実地指導も有償にて対応します。これについては，協会に入会して頂く必要はありません。ご希望の方は，協会事務局（[office@simpleplt.org](mailto:office@simpleplt.org)）までご連絡下さい。
